@@ -40,3 +40,5 @@ readme_path = Path("/mnt/data/README.md")
 readme_path.write_text(readme_content, encoding="utf-8")
 
 readme_path
+#Data set file
+https://drive.google.com/file/d/1f0CYWY0tmOTRvCZqPtUJNLoomcUKvU2i/view?usp=sharing
